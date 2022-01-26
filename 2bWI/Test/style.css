@@ -1,0 +1,69 @@
+.Mainbox{
+    height: 150px;
+    width: 325px;
+    background-color: green;
+    display: flex;
+}
+
+body{
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+}
+
+.Größe{
+    display: flex;
+    position: relative;
+    
+}
+
+.Gewicht{
+    display: flex;
+    position: relative;
+    margin-top: 5px;
+  
+
+}
+
+#button{
+    display: flex;
+    height: 20px;
+    width: 125px;
+    margin-top: 40px;
+    background-color: purple;
+    color: white;
+}
+
+.enterout{
+    display: flex;
+    position: relative;
+}
+
+.out{
+    height: 105px;
+    width: 125px;
+}
+
+#in{
+    width: 125px;
+}
+
+#ind{
+    width: 125px;
+}
+
+.left{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+
+.right{
+    display: flex;
+    position: relative;
+    padding-top: 20px;
+    margin-left: 20px;
+    
+}
