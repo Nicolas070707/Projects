@@ -1,12 +1,12 @@
 .Mainbox{
     height: 150px;
     width: 325px;
-    background-color: green;
+    background-color: teal;
     display: flex;
 }
 
 body{
-    background-color: gray;
+    background-color: grey;
     display: flex;
     justify-content: center;
     height: 100vh;
@@ -19,11 +19,6 @@ body{
     
 }
 
-.Gewicht{
-    display: flex;
-    position: relative;
-    margin-top: 5px;
-  
 
 }
 
@@ -32,8 +27,8 @@ body{
     height: 20px;
     width: 125px;
     margin-top: 40px;
-    background-color: purple;
-    color: white;
+    background-color: white;
+    color: black;
 }
 
 .enterout{
@@ -66,4 +61,8 @@ body{
     padding-top: 20px;
     margin-left: 20px;
     
+}
+
+.bottom{
+background-color: purple;
 }

@@ -14,12 +14,20 @@ function calc() {
   } else if (result1 > 0) {
       for (let index = 0; index <= result1; index++) {
           console.log(index);
-          
-      }
-
-
-  } 
+          }
+        }
+;
 } 
+else if {
+    for (let index = 0; index <= result1; index++) {
+        console.log(index);
+        }
+    }
+}
+
+
+
+
 
 
 
